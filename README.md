@@ -154,9 +154,7 @@ This project was built as a concept by:
 
 ---
 
-## 📜 License
-
-This project is licensed under the [MIT License](LICENSE).
+ 
 
 ---
 
